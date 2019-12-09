@@ -47,7 +47,7 @@ def open_firefox():
     msg(1, 'Opening Firefox...')
 
     # Search for Firefox in the menu search
-    pyautogui.hotkey('winleft')
+    pyautogui.hotkey('winleft') # Open search bar
     pyautogui.typewrite('firefox')
     pyautogui.typewrite('\n')
 
