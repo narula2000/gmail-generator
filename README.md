@@ -1,4 +1,4 @@
-<h1> gmail-generator </h1>
+<h1> gmail-generator Doesn't Work due to gmail requiring PhoneNumber </h1>
 <ul>
 	Python script that generates a new Gmail account with random credentials.
 
